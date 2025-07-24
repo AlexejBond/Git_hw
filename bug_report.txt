@@ -1,5 +1,9 @@
-**Environment**: [STAGE and [PROD]
-**Browser:** Chrome, version
+SAMARI : 
+
+
+Priority: P1
+Environment: [STAGE and [PROD]
+Browser: Chrome, version
 
 Screenshots: 
 
@@ -16,10 +20,14 @@ Screenshots:
 
 
 
-**Actual result:** 
+Actual result:
 > **StatusCode: 504, message: 'Extension did not respond in time**
 
-**Expected result:** 
+Expected result: 
 > **Items are added to the basket without any errors, up to the maximum limit of 15**
 
 Logs: 
+------------------------------------------------------------------------------------------------------
+
+
+Notes: 
