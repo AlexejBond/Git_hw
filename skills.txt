@@ -1,0 +1,6 @@
+1. JavaScript & TypeScript for Automation Tests
+2. API Testing
+3. Playwright
+4. CI/CD
+5. Docker
+6. UI Testing
