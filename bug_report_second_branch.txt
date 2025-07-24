@@ -1,0 +1,36 @@
+Id: 
+
+
+SAMARI : 
+
+
+Priority: P3
+Environment: [STAGE and [PROD]
+Browser: Chrome, version
+
+Screenshots: 
+
+
+**Steps to reproduce:**
+
+1. Go to STAGE or PROD
+2. Add items to the basket up to the maximum limit
+
+- **On Stage, the issue occurs when adding the 15th item**
+
+- **On Prod, it happens around the 8th or 9th item**
+
+
+
+
+Actual result:
+> **StatusCode: 504, message: 'Extension did not respond in time**
+
+Expected result: 
+> **Items are added to the basket without any errors, up to the maximum limit of 15**
+
+Logs: 
+------------------------------------------------------------------------------------------------------
+
+
+Notes: 
